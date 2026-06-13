@@ -12,8 +12,7 @@ Browse Products → Add to Cart / Buy Now → Submit Order → Pay → Ship → 
 
 ## Submitted Files
 
-The full assignment answer is available in the `docs` folder:
-
+The full assignment answer is available in this repository:
 - `ecommerce_mvp_assignment_answer.pdf`
 - `ecommerce_mvp_assignment_answer.docx`
 
