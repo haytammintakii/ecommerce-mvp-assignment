@@ -46,4 +46,4 @@ The main focus is on:
 ## Candidate Information
 Name: Haytam Mintaki  
 Position: Product Manager  
-Email: your-email@example.com
+Email: haytam.mintakii@gmail.com
